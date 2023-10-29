@@ -9,3 +9,4 @@ class ToRiCoreApplication
 fun main(args: Array<String>) {
 	runApplication<ToRiCoreApplication>(*args)
 }
+ 
